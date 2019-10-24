@@ -11,3 +11,5 @@ There are some great Javascript courses out there, and while this document does 
   - <a href="https://getbootstrap.com/">Bootstrap</a> is also a very popular framework for frontend development.
 - It's worth noting that Javascript has <b>different versions</b>. <a href="https://www.makeuseof.com/tag/es6-javascript-programmers-need-know/">ES6</a> is the latest Javascript version, and while a lot of JS is version agnostic, this is definitely worth remembering
   - Some libraries, like Node and React do require you to <a href="https://scotch.io/tutorials/javascript-transpilers-what-they-are-why-we-need-them">transpile</a> your ES6 code to an older version. More on that <a href="http://nicholasjohnson.com/blog/what-is-babel/">here</a>
+- Since Node/Express + React seems to be the most popular webapp combination out there, <a href="https://dev.to/kedar9/creating-a-node-app-with-react-webpack-4-babel-7-express-and-sass-3mae">this</a> is a fairly comprehensive project setup guide. 
+- You're going to want to check out either <a href="https://www.npmjs.com/">npm</a> or <a href="https://yarnpkg.com/lang/en/">yarn</a> for JS package management. 
