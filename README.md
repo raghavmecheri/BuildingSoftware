@@ -8,6 +8,11 @@ Most of the Internet today runs on Javascript, with it powering everything today
 
 There are some great Javascript courses out there, and while this document does not serve in any way as a replacement for any of them, it should be helpful with getting you started on the right path to getting familiar with this (admittedly) nuanced language.
 
+General order of precedence:
+- Learn HTML/CSS
+- Learn basic JS
+- Pick some frameworks, and jump in!
+
 ### Useful Information:
 - <a href="https://www.codecademy.com/learn/introduction-to-javascript">Codecademy's Javascript tutorial</a> is a great place to start
 - Web Frontends can either be built using a combination of <a href="https://snipcart.com/blog/learn-vanilla-javascript-before-using-js-frameworks">Vanilla JS</a> and HTML/CSS, or a Javascript Library, and HTML/CSS. If you don't know much about HTML/CSS, <b>stop here</b>. <a href="https://www.codecademy.com/catalog/language/html-css">Check this out first.</a>
