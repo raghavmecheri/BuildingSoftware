@@ -1,2 +1,2 @@
-# LearnJavascript
-A collection of online resources and materials to navigate today's Javascript ecosystem
+# LearnJS
+A collection of JS resources that I found useful while learning the language and it's platforms :)
