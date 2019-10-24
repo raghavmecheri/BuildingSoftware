@@ -1,4 +1,4 @@
-# An Overview
+# Overview
 
 Javascript is an <a href="https://en.wikipedia.org/wiki/Interpreted_language">interpreted</a>, <a href="https://en.wikipedia.org/wiki/Scripting_language">scriping language</a>.
 Most of the Internet today runs on Javascript, with it powering everything today from web-frontends (alongside HTML/CSS), to backends, to even some data-science pipelines.
