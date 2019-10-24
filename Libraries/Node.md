@@ -1,6 +1,6 @@
 # Overview
 
-<a href="https://nodejs.org/en/">NodeJS</a> is a Javascript runtime, built on Chrome's V8 engine. This means that it's really fast. It allows you to build backend services/servers, that can either just stand alone as API endpoints, or can even serve frontend code.
+<a href="https://nodejs.org/en/">NodeJS</a> is a Javascript runtime, built on Chrome's V8 engine. It's biggest selling point is that it's really fast, and super scaleable. It allows you to build backend services/servers, that can either just stand alone as API endpoints, or can even serve frontend code.
 Node is generally used with a wrapper library, <a href="https://expressjs.com/">ExpressJS</a> which is a great framework built upon NodeJS.
 
 ## Useful Information:
