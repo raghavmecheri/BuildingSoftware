@@ -12,7 +12,7 @@ You probably want to pick up Flask to build functional web-apps and services, to
 
 
 ### I want to do cool stuff with data
-Python and R are the two main languages that people use to deal with data collection, data analytics, machine learning, and all the other cool words that we hear get thrown around today. You probably want to get started with the basics of Python, and then head into the ```Data/``` folder to check our some libraries and platforms that you can use with Python, to really get your data to work for you. Check out the Python section and the Data/ folder [here](https://github.com/raghavmecheri/BuildingSoftware/blob/master/Python/Python.md)
+Python and R are the two main languages that people use to deal with data collection, data analytics, machine learning, and all the other cool words that we hear get thrown around today. You probably want to get started with the basics of Python, and then head into the ```Data/``` folder to check our some libraries and platforms that you can use with Python, to really get your data to work for you. Check out the Python section and the ```Data/``` folder [here](https://github.com/raghavmecheri/BuildingSoftware/blob/master/Python/Python.md)
 
 ### I want to publish what I've built for everyone to use
 Check out the Deployment guide [here](https://github.com/raghavmecheri/BuildingSoftware/blob/master/Deployment/Deployment.md), which is still a work in progress. 
