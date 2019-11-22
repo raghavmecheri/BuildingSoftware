@@ -1,5 +1,5 @@
 # BuildingSoftware
-A collection of software development resources that I found useful while learning languages like Python and Javascript, as well as their respective platforms :)
+A collection of software development resources that I found useful while learning how to code and build software products.
 
 ## An Overview
 The languages covered for now are Javascript and Python, with documents supporting NodeJS, ReactJS, React Native and Flask.
