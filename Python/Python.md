@@ -11,3 +11,4 @@ Python is relatively straightforward, and while it has multiple applications, if
 - <a href="https://www.codecademy.com/learn/learn-python-3">Codecademy's Python tutorial</a> is a great place to start
 - The <a href="https://docs.python.org/3/tutorial/"> official Python3 documentation</a> is great too
 - If you like video courses, <a href="https://www.youtube.com/watch?v=_uQrJ0TkZlc">this one</a> is great.
+- If you're trying to build websites, servers and the such, check out the Libraries/ folder for information on Flask and Django, or the Data/ folder if you want to check out how you can do cool stuff with data (both currently in development :)))
