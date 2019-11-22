@@ -1,4 +1,4 @@
-# LearnJS
+# BuildingSoftware
 A collection of software development resources that I found useful while learning languages like Python and Javascript, as well as their respective platforms :)
 
 ## Just need a place to start?
